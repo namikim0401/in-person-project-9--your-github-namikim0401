@@ -306,6 +306,11 @@
   color: var(--color-text-light);
 }
 
+.project-card-link {
+  color: inherit;
+  text-decoration: none;
+}
+
 /* Project Detail Page */
 .project-detail {
   max-width: 800px;
